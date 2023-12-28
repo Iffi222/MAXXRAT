@@ -1,9 +1,9 @@
 <p align="center">
-<img src='WEB PANEL/img/logo.png' style="height:100px;width:100px;" >
+ <img src= "https://github.com/GoutamHX/MAXXRAT/assets/148895787/448fad32-1346-4f55-9072-9737787541ed" style="height:100px;width:100px;" >
 </p>
 <h1 align=center>MAXXRAT</h1>
 
-####A Advance RAT -multifunctional Android RAT with GUI based Web Panel without port forwarding.
+## A Advance RAT -multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
 
 </div>
@@ -95,7 +95,7 @@
   ### Tutorial Videos
   1. To be updated...
 
-### ❤️JOIN TELEGRAM CHENNAL FOR MORE ❤️
+### ❤️JOIN TELEGRAM CHANNELS FOR MORE UPDATES❤️
 1. https://t.me/TheAdvanceBots
 2. https://t.me/MAXX_MODS
 
